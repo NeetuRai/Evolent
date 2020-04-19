@@ -1,0 +1,12 @@
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\bin\Release\EmployeeDataAccess.dll.config
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\bin\Release\EmployeeDataAccess.dll
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\bin\Release\EmployeeDataAccess.pdb
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\bin\Release\EntityFramework.dll
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\bin\Release\EntityFramework.xml
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\obj\Release\EmployeeDataAccess.csprojAssemblyReference.cache
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\obj\Release\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\obj\Release\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\obj\Release\EmployeeDataAccess.dll
+C:\Users\nrai2\source\repos\WebAPIDemo\EmployeeDataAccess\obj\Release\EmployeeDataAccess.pdb
